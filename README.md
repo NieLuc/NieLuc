@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Rust in embedded programming**
 
+- 👯 I’m looking to collaborate on **software for the Deefholt Dynamics racecar ECU**
+
 - 💬 Ask me about **Qt librarys and some embedded programming**
+
+- 📫 How to reach me **l.niemeyer@stud.phwt.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
