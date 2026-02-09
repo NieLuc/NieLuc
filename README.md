@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Qt librarys and some embedded programming**
 
-- 📫 How to reach me **l.niemeyer@stud.phwt.de**
 
 <p align="left">
 </p>
